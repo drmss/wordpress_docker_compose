@@ -1,0 +1,8 @@
+.env
+docker-compose.yml
+backups
+imports
+logs
+data
+config/php.ini
+config/nginx.conf
